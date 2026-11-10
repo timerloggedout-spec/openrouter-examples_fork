@@ -11,7 +11,7 @@
     "@openrouter-examples/shared": "workspace:*",
     "@effect/ai": "^0.32.1",
     "@effect/ai-openrouter": "^0.6.0",
-    "@effect/platform": "^0.93.0",
+    "@effect/platform": "^0.97.2",
     "@effect/platform-bun": "^0.83.0",
     "effect": "^3.19.3"
   },
